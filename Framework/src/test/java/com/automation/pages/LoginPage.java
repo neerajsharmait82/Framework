@@ -9,10 +9,11 @@ public class LoginPage {
 	
 	WebDriver driver;
 	
-	
+	// this is new commit
 	public LoginPage(WebDriver ldriver)
 	{
 		this.driver=ldriver;
+		
 	}
 	
 	
