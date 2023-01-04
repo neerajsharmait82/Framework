@@ -45,7 +45,7 @@ public class BaseClass {
 		Reporter.log("Settings Done - Test can be started", true);
 		
 	}
-	
+	// test commit
 	  
 	
 	@BeforeClass
